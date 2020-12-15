@@ -36,6 +36,6 @@ plt.show()
 #New Salary prediction
 #sal = input("Enter the years of experience: ")
 new_salary_prediction = regressor.predict([15])
-print('The predicted salary of the person is',new_salary_prediction)
+print('The predicted salary of the person is:',new_salary_prediction)
 
 
