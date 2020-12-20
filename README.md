@@ -3,5 +3,8 @@ It is a simple mini-project using Linear Regression which will predict the salar
 
 *Data base used for training and testing = Salary_Data.csv
 
-<b>5 simlpe steps to :- </b>
-1.
+<b>4 simlpe steps to :- </b>
+
+1. Importing the dataset.
+2. Splitting dataset into training set and testing set.
+3. Initializing the regression model and fitting it using training set.
