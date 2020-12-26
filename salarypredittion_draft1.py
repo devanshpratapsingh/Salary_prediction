@@ -1,4 +1,4 @@
-#Salary Prediction
+#Salary Prediction using Linear Regression
 
 import pandas as pd
 dataset = pd.read_csv('Salary_Data.csv')
