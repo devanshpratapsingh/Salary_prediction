@@ -10,5 +10,5 @@ It is a simple mini-project using Linear Regression which will predict the salar
 3. Initializing the regression model and fitting it using training set.
 4. That's it, you're good to go! Go on predicting ;)
 
-<img src="Figure_1" width="350" height="350"> <br>
-<img src="Figure_2" width="350" height="350">
+<img src="Figure_1.png" width="350" height="350"> <br>
+<img src="Figure_2.png" width="350" height="350">
